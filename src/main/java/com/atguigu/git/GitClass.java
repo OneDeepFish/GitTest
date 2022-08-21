@@ -5,5 +5,6 @@ public class GitClass {
         System.out.println("hello world1");
         System.out.println("hot-fix:hello world!");
         System.out.println("master:hello world!");
+        System.out.println("hot-fix:hello World1");
     }
 }
