@@ -8,5 +8,7 @@ public class GitClass {
         System.out.println("hot-fix:hello World1");
         System.out.println("push remote World1");
         System.out.println("push gitee World1");
+        System.out.println("这么快吗？");
+
     }
 }
